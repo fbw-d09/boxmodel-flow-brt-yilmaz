@@ -1,3 +1,32 @@
+body {
+  width: 80%;
+  margin: auto;
+}
+
+header {
+  margin: 20px auto;
+}
+
+img {
+  margin-top: 15px;
+  width: 200px;
+}
+
 .esports-info {
-  display: inline-block;
+  margin: auto;
+  margin-bottom: 10px;
+  border: 2px solid ;
+  overflow: auto;
+  padding: 10px;
+}
+
+.esports-info p {
+  width: 130%;
+}
+
+
+.esports-info img {
+  float: left;
+  margin-right: 10px;
+  
 }
